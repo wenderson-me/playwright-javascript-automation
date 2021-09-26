@@ -13,5 +13,8 @@
     "@playwright/test": "^1.14.1",
     "jest": "^27.2.2",
     "playwright": "^1.14.1"
+  },
+  "dependencies": {
+    "@applitools/eyes-playwright": "^1.9.1"
   }
 }
